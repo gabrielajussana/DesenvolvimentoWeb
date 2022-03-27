@@ -1,0 +1,52 @@
+*{
+  font-family: 'Calibri', sans-serif;
+}
+
+body{
+  width: 70%;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+}
+
+header{
+background-color: black;
+color: white;
+text-align: center;
+ width: 100%;
+ border: 2px solid black;
+ flex-direction: column;
+}
+
+header span{
+  font-size: 20px;
+}
+
+nav{
+  border: 2px solid black;
+  width: 20%;
+  padding: 10px;
+}
+
+
+article{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  width: 80%;
+}
+
+article img{
+  margin: 20px;
+  width: 500px;
+  height: 250px;
+}
+
+article iframe{
+  width: 500px;
+  height: 250px;
+}
