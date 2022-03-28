@@ -1,0 +1,21 @@
+body{
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p{
+  font-family: 'Times new roman';
+}
+h2{
+  font-size: 20px;
+  text-align: center;
+}
+
+h1{
+  text-align:center;
+}
+
+a{
+  text-decoration: none;
+}
